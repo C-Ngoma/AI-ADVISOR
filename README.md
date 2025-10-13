@@ -1,11 +1,6 @@
-# AI-ADVISOR
----
-
 # 🌍 AI-ADVISOR: Linking South African Talent to Global AI Jobs
 
 > **Unlocking Potential in the Fourth Industrial Revolution**
-
-![AI-ADVISOR Banner](9ecffcbb-d85c-4623-9575-fe7225eba983.jpg)
 
 ---
 
