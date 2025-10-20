@@ -40,6 +40,7 @@ It recommends personalized job matches, predicts market trends, and supports ski
 
 * Increased employment rates
 * Foreign revenue generation
+* Skills development
 * Growth in South Africa’s digital economy
 
 ---
@@ -48,7 +49,7 @@ It recommends personalized job matches, predicts market trends, and supports ski
 
 * 50%+ active user growth (pilot phase)
 * Global partnerships and revenue streams
-* Socioeconomic upliftment via global job access
+* Socio-economic upliftment via global job access
 
 ---
 
@@ -58,16 +59,14 @@ It recommends personalized job matches, predicts market trends, and supports ski
 | --------------- | ----------------------------------------------------------------------- |
 | **Languages**   | Python, Pandas, NumPy                                                   |
 | **Modeling**    | Demand Scoring, Time Series Forecasting                                 |
-| **Tools**       | NLP, Chatbot Interface, Predictive Modeling                             |
+| **Tools**       | NLP, Predictive Modeling                             |
 | **Data Source** | `ai_job_dataset.csv` (includes job titles, pay, skills, and experience) |
 
 ---
 
 ## 🔮 Future Enhancements
-
-* 💬 Voice & WhatsApp job matching assistant
 * 📱 Real-time updates and chatbot integration
-* 📈 Machine learning predictive modeling
+* 📈 Enanced Machine Learning predictive modeling
 * 🌐 Global AI presence expansion
 
 ---
@@ -93,13 +92,7 @@ Includes: Job titles, skills, pay scales, experience, and trends.
 
 ---
 
-## 👥 Contributors
 
-* **Project Lead:** Christina Ngoma
-* **Team:** AI-ADVISOR Development Team
-* **Institution:** [Vaal University of Technology]
-
----
 
 ## 🏁 How to Run
 
